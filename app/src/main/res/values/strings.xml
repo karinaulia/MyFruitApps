@@ -1,0 +1,78 @@
+<!--suppress AndroidDomInspection -->
+<resources>
+    <string name="app_name">MyFruitApps</string>
+
+    <string name="fruit_name">Nama Buah</string>
+    <string name="description">Deskripsi</string>
+    <string name="season">Musim</string>
+    <string name="save">Penyimpanan</string>
+    <string name="about_page">About</string>
+    <string name="people_name">Karina Aulia Primanti Putri</string>
+    <string name="email">karinauliap@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Apel</item>
+        <item>Alpukat</item>
+        <item>Pisang</item>
+        <item>Ceri</item>
+        <item>Lemon</item>
+        <item>Jeruk</item>
+        <item>Pir</item>
+        <item>Nanas</item>
+        <item>Raspberry</item>
+        <item>Stroberi</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Apel adalah buah yang umumnya berwarna merah, hijau, atau kuning. Mereka memiliki daging buah yang renyah, manis atau asam, dan sering digunakan untuk makan segar atau dalam berbagai hidangan, seperti pai dan jus. </item>
+        <item>Alpukat adalah buah dengan daging lembut dan berwarna hijau yang kaya akan lemak sehat. Mereka sering digunakan dalam salad, guacamole, atau sebagai tambahan pada hidangan lainnya.</item>
+        <item>Pisang adalah buah berkulit kuning yang lezat dan kaya akan potasium. Mereka sering dimakan sebagai camilan atau digunakan dalam smoothie dan kue.</item>
+        <item>Ceri adalah buah kecil berwarna merah atau hitam yang manis dan sedikit asam. Mereka sering dimakan segar atau digunakan dalam pembuatan selai, pai, atau minuman.</item>
+        <item>Lemon adalah buah berwarna kuning cerah yang memiliki rasa asam yang kuat. Mereka sering digunakan untuk memberi rasa pada makanan, minuman, dan hidangan penutup.</item>
+        <item>Jeruk adalah buah berkulit tebal yang berwarna oranye dan kaya akan vitamin C. Mereka sering dimakan segar atau dijadikan jus.</item>
+        <item>Pir adalah buah dengan tekstur yang renyah dan manis. Mereka sering dimakan segar atau digunakan dalam berbagai hidangan, termasuk pai dan salad.</item>
+        <item>Nanas adalah buah tropis berwarna kuning dengan daging manis dan berair. Mereka sering dimakan segar atau digunakan dalam hidangan seperti pizza hawaiian dan jus.</item>
+        <item>Raspberry adalah buah berwarna merah yang kecil dan manis. Mereka sering digunakan dalam pembuatan selai, saus, atau sebagai tambahan pada makanan penutup.</item>
+        <item>Stroberi adalah buah berwarna merah cerah yang manis dan sering digunakan dalam berbagai hidangan, seperti salad, kue, dan es krim.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/apel</item>
+        <item>@drawable/alpukat</item>
+        <item>@drawable/pisang</item>
+        <item>@drawable/ceri</item>
+        <item>@drawable/lemon</item>
+        <item>@drawable/jeruk</item>
+        <item>@drawable/pir</item>
+        <item>@drawable/nanas</item>
+        <item>@drawable/raspberry</item>
+        <item>@drawable/stroberi</item>
+    </integer-array>
+
+    <string-array name="data_season">
+        <item>Musim:\nApel biasanya musim gugur hingga awal musim dingin, tergantung pada jenisnya. Musimnya berkisar dari September hingga Februari.</item>
+        <item>Musim:\nAlpukat biasanya musim sepanjang tahun, tetapi puncak musimnya bisa bervariasi berdasarkan wilayah dan jenisnya.</item>
+        <item>Musim:\nPisang tersedia sepanjang tahun, namun, ketersediaannya dapat berbeda-beda tergantung pada wilayah dan jenisnya.</item>
+        <item>Musim:\nCeri biasanya musim pada awal hingga pertengahan musim panas, sekitar bulan Juni hingga Juli.</item>
+        <item>Musim:\nLemon tersedia sepanjang tahun, tetapi puncak produksinya sering terjadi pada musim panas hingga awal musim gugur.</item>
+        <item>Musim:\nJeruk biasanya musim pada musim dingin hingga awal musim semi, tergantung pada jenisnya. Musimnya berkisar dari Desember hingga April.</item>
+        <item>Musim:\nPir biasanya musim gugur hingga awal musim dingin, sekitar bulan September hingga Desember.</item>
+        <item>Musim:\nNanas biasanya musim sepanjang tahun, tetapi musim panas adalah saatnya puncak produksi.</item>
+        <item>Musim:\nRaspberry musim pada musim panas, terutama pada bulan Juni hingga Agustus.</item>
+        <item>Musim:\nStroberi biasanya musim pada musim semi hingga awal musim panas, sekitar bulan Mei hingga Juni.</item>
+    </string-array>
+
+    <string-array name="data_save">
+        <item>Penyimpanan:\nSimpan apel di dalam kulkas dalam kantong plastik atau di tempat yang sejuk dan kering untuk menjaga kelezatannya. Hindari menyimpan apel bersama dengan buah lain yang dapat mempercepat pematangan.</item>
+        <item>Penyimpanan:\nUntuk memperpanjang kesejukan alpukat, simpan buah yang belum matang di luar kulkas hingga matang. Setelah matang, simpan di dalam kulkas. Hindari menyimpan alpukat yang sudah dipotong di luar kulkas.</item>
+        <item>Penyimpanan:\nPisang yang belum matang sebaiknya disimpan di suhu kamar hingga matang. Setelah matang, simpan di dalam kulkas untuk memperlambat pematangan.</item>
+        <item>Penyimpanan:\nSimpan ceri di dalam kulkas dalam wadah tertutup. Jangan cuci ceri sebelum disimpan agar tetap segar lebih lama.</item>
+        <item>Penyimpanan:\nSimpan lemon di dalam kulkas atau di suhu kamar. Jika memotong lemon, simpan sisa potongan di dalam kulkas dalam wadah kedap udara.</item>
+        <item>Penyimpanan:\nSimpan jeruk di dalam kulkas atau di suhu kamar. Untuk menjaga kelembapan, Anda dapat menyimpannya dalam kantong plastik atau wadah tertutup.</item>
+        <item>Penyimpanan:\nSimpan pir di dalam kulkas atau di suhu kamar. Periksa secara berkala untuk memastikan tidak ada yang busuk, karena pir dapat menjadi matang dengan cepat.</item>
+        <item>Penyimpanan:\nSimpan nanas di dalam kulkas setelah dipotong. Untuk nanas utuh, Anda dapat menyimpannya di suhu kamar. Hindari menyimpan nanas terlalu lama karena dapat mempengaruhi rasanya.</item>
+        <item>Penyimpanan:\nSimpan raspberry di dalam kulkas dalam wadah tertutup. Hindari mencucinya sebelum penyimpanan untuk menjaga kelezatan.</item>
+        <item>Penyimpanan:\nSimpan stroberi di dalam kulkas dalam wadah tertutup. Jangan mencuci stroberi sebelum disimpan, dan segera konsumsi atau gunakan setelah dipetik untuk menjaga kesegarannya.</item>
+    </string-array>
+
+</resources>
